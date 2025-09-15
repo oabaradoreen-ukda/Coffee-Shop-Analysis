@@ -1,5 +1,5 @@
 # Coffee-Shop-Analysis
-Effects of marketing spend on revenue.
+Effects of marketing spend on revenue
 # ☕ Coffee Shop Marketing ROI Dashboard
 
 A multi-layered business intelligence dashboard analysing the relationship between marketing spend and daily revenue across multiple years. Built in Excel and Power BI using simulated transactional data from a coffee shop POS system, this project explores spend efficiency, customer dynamics, and strategic budgeting recommendations.
