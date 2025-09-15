@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Marketing ROI Analyis
+# ☕ Coffee Shop Marketing ROI Analysis
 
 A multi-layered business intelligence dashboard analysing the relationship between marketing spend and daily revenue across multiple years. Built in Excel and Power BI using simulated transactional data from a coffee shop POS system, this project explores spend efficiency, customer dynamics, and strategic budgeting recommendations.
 
